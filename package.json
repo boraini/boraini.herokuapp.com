@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/boraini/boraini.herokuapp.com/issues"
   },
-  "homepage": "https://github.com/boraini/boraini.herokuapp.com#readme"
+  "homepage": "https://github.com/boraini/boraini.herokuapp.com#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
