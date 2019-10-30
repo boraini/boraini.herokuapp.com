@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  margin: 0;
+  padding: 0.5em;
+  background-color: black;
+  color: white;
+}
+nav .logo {
+  display: inline-block;
+  float: left;
+  height: 1em;
+  width: 5.65em;
+  background-image: url("/img/logo.svg");
+  background-size: cover;
+}
+
+/*# sourceMappingURL=_layout.css.map */

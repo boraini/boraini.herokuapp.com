@@ -1,0 +1,23 @@
+$headerbgcolor: black
+$headerfgcolor: white
+$logourl: "/img/logo.svg"
+$logoaspectratio: 5.65
+$headerfontsize: 16pt
+$headerfontfamily: "Roboto", sans-serif
+
+html, body
+  margin: 0
+  padding: 0
+
+nav
+  margin: 0
+  padding: 0.5em
+  background-color: $headerbgcolor
+  color: $headerfgcolor
+  .logo
+    display: inline-block
+    float: left
+    height: 1em
+    width: 1em * $logoaspectratio
+    background-image: url($logourl)
+    background-size: cover
