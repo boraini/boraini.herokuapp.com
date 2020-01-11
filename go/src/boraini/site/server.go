@@ -5,6 +5,7 @@ import (
 	"boraini/blog"
 	"log"
 	"strconv"
+	"os"
 )
 
 func main() {
@@ -23,5 +24,5 @@ func main() {
 	e.Renderer = t
 
 	go PrepareSiteIndex()
-	e.Start(":8080")
+	e.Start(os.Getenv("PORT"))
 }
