@@ -43,14 +43,17 @@ function deploy(dirent) {
   try {
 	  console.log(dirent);
     let input = fs.readFileSync(path.resolve("./views-raw/" + dirent), "utf8");
-    let keys = input.match(/{{static-([\w-]+)}}/g);
-    if (keys) {
-      for (let key of keys) {
-        let keytrimmed = key.substring(key.indexOf("-") + 1, key.indexOf("}"));
-        console.log("\t" + keytrimmed);
-        input = input.replace(key, cache[keytrimmed]);
-      }
-		}
+		let keys;
+		do {
+    	keys = input.match(/{{static-([\w-]+)}}/g);
+    	if (keys) {
+      	for (let key of keys) {
+        	let keytrimmed = key.substring(key.indexOf("-") + 1, key.indexOf("}"));
+        	console.log("\t" + keytrimmed);
+        	input = input.replace(key, cache[keytrimmed]);
+      	}
+			}
+		} while (keys)
     fs.writeFileSync(path.resolve("./views/" + dirent), input, "utf8");
   }
   catch (err) {

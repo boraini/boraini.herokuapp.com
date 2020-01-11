@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/boraini/boraini.herokuapp.com#readme",
   "dependencies": {
+    "@babel/core": "^7.6.4",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-es2015": "^6.24.1",
     "liquidjs": "^8.4.0"
   },
   "devDependencies": {

@@ -7,14 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="451.62967"
-   height="79.928871"
+   inkscape:version="1.0beta1 (32d4812, 2019-09-19)"
+   sodipodi:docname="logodjvsvlkzv.svg"
+   id="svg887"
    version="1.1"
-   id="svg56"
-   sodipodi:docname="logo.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+   height="67"
+   width="149.5">
   <metadata
-     id="metadata62">
+     id="metadata893">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,243 +26,234 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs60" />
+     id="defs891" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="903"
-     inkscape:window-height="450"
-     id="namedview58"
-     showgrid="false"
-     fit-margin-top="5"
-     fit-margin-left="5"
-     fit-margin-bottom="5"
-     fit-margin-right="5"
-     inkscape:zoom="2.0769231"
-     inkscape:cx="364.16454"
-     inkscape:cy="30.127551"
-     inkscape:window-x="377"
-     inkscape:window-y="8"
+     inkscape:current-layer="svg887"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg56" />
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="120.4456"
+     inkscape:cx="-16.270272"
+     inkscape:zoom="2.077017"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     fit-margin-top="1"
+     showgrid="false"
+     id="namedview889"
+     inkscape:window-height="907"
+     inkscape:window-width="1666"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <desc
-     id="desc2">TriLizard character. Created and drewn by boraini.</desc>
+     id="desc833">TriLizard character. Created and drewn by boraini.</desc>
   <g
-     id="g54"
-     transform="translate(6,8.1716882)">
+     transform="translate(1,1)"
+     id="g885">
     <g
-       name="tail"
-       id="g6">
+       id="g837"
+       name="tail">
       <path
-         d="m 100,31 h 20 q 2,0 2,-2 V 18 q 0,-2 2,-2 h 22 c 2,0 2,4 0,4 h -18 q -2,0 -2,2 v 11 q 0,2 -2,2 h -24"
-         id="path4"
          inkscape:connector-curvature="0"
-         style="fill:#ff8844;stroke:#ff8800" />
+         id="path835"
+         fill="#f84"
+         stroke="#f80"
+         d="m 100,31 h 20 q 2,0 2,-2 V 18 q 0,-2 2,-2 h 22 c 2,0 2,4 0,4 h -18 q -2,0 -2,2 v 11 q 0,2 -2,2 h -24" />
     </g>
     <g
-       name="feet"
-       id="g24">
+       id="g855"
+       name="feet">
       <rect
-         x="30"
-         y="44"
-         width="10"
+         id="rect839"
+         stroke="#f80"
+         fill="#f84"
          height="20"
-         id="rect8"
-         style="fill:#ff8844;stroke:#ff8800" />
+         width="10"
+         y="44"
+         x="30" />
       <path
-         d="m 30,65 v -2.5 c 0,-5 5,-5 5,0 V 65 62.5 c 0,-5 5,-5 5,0 V 65 Z"
-         id="path10"
          inkscape:connector-curvature="0"
-         style="fill:#ffffff;stroke:#aaaaaa;stroke-width:2" />
+         id="path841"
+         stroke-width="2"
+         stroke="#aaa"
+         fill="#fff"
+         d="m 30,65 v -2.5 c 0,-5 5,-5 5,0 V 65 62.5 c 0,-5 5,-5 5,0 V 65 Z" />
       <rect
-         x="45"
-         y="44"
-         width="10"
+         id="rect843"
+         stroke="#f80"
+         fill="#f84"
          height="20"
-         id="rect12"
-         style="fill:#ff8844;stroke:#ff8800" />
+         width="10"
+         y="44"
+         x="45" />
       <path
-         d="m 45,65 v -2.5 c 0,-5 5,-5 5,0 V 65 62.5 c 0,-5 5,-5 5,0 V 65 Z"
-         id="path14"
          inkscape:connector-curvature="0"
-         style="fill:#ffffff;stroke:#aaaaaa;stroke-width:2" />
+         id="path845"
+         stroke-width="2"
+         stroke="#aaa"
+         fill="#fff"
+         d="m 45,65 v -2.5 c 0,-5 5,-5 5,0 V 65 62.5 c 0,-5 5,-5 5,0 V 65 Z" />
       <rect
-         x="90"
-         y="44"
-         width="10"
+         id="rect847"
+         stroke="#f80"
+         fill="#f84"
          height="20"
-         id="rect16"
-         style="fill:#ff8844;stroke:#ff8800" />
+         width="10"
+         y="44"
+         x="90" />
       <path
-         d="m 90,65 v -2.5 c 0,-5 5,-5 5,0 V 65 62.5 c 0,-5 5,-5 5,0 V 65 Z"
-         id="path18"
          inkscape:connector-curvature="0"
-         style="fill:#ffffff;stroke:#aaaaaa;stroke-width:2" />
+         id="path849"
+         stroke-width="2"
+         stroke="#aaa"
+         fill="#fff"
+         d="m 90,65 v -2.5 c 0,-5 5,-5 5,0 V 65 62.5 c 0,-5 5,-5 5,0 V 65 Z" />
       <rect
-         x="75"
-         y="44"
-         width="10"
+         id="rect851"
+         stroke="#f80"
+         fill="#f84"
          height="20"
-         id="rect20"
-         style="fill:#ff8844;stroke:#ff8800" />
+         width="10"
+         y="44"
+         x="75" />
       <path
-         d="m 75,65 v -2.5 c 0,-5 5,-5 5,0 V 65 62.5 c 0,-5 5,-5 5,0 V 65 Z"
-         id="path22"
          inkscape:connector-curvature="0"
-         style="fill:#ffffff;stroke:#aaaaaa;stroke-width:2" />
+         id="path853"
+         stroke-width="2"
+         stroke="#aaa"
+         fill="#fff"
+         d="m 75,65 v -2.5 c 0,-5 5,-5 5,0 V 65 62.5 c 0,-5 5,-5 5,0 V 65 Z" />
     </g>
     <g
-       name="body"
-       id="g32">
+       id="g863"
+       name="body">
       <rect
-         x="26"
-         y="19"
-         width="78"
-         height="28"
-         rx="3"
+         id="rect857"
          ry="3"
-         id="rect26"
-         style="fill:#4444ff;stroke:#2222ff;stroke-width:2" />
+         rx="3"
+         stroke-width="2"
+         stroke="#22f"
+         fill="#44f"
+         height="28"
+         width="78"
+         y="19"
+         x="26" />
       <path
-         d="m 36,19 8,21 8,-19 v 0 l 8,19 8,-19 v 0 l 8,19 8,-19 v 0 l 8,19 8,-21 z"
-         id="path28"
          inkscape:connector-curvature="0"
-         style="fill:#ff8844;stroke:#ff8800;stroke-width:2" />
+         id="path859"
+         fill="#f84"
+         stroke-width="2"
+         stroke="#f80"
+         d="m 36,19 8,21 8,-19 v 0 l 8,19 8,-19 v 0 l 8,19 8,-19 v 0 l 8,19 8,-21 z" />
       <!--<rect x="25" y="18" width="80" height="30" fill="none" stroke="#22f" stroke-width="2" rx="3" ry="3"></rect>-->
       <path
-         d="m 45,19 h 55"
-         id="path30"
          inkscape:connector-curvature="0"
-         style="stroke:#ff8800;stroke-width:2" />
+         id="path861"
+         stroke="#f80"
+         stroke-width="2"
+         d="m 45,19 h 55" />
     </g>
     <g
-       name="head"
+       id="g883"
        onclick="alert('Tiyze n\'aptin?!', 'TriLizard diyor ki:');"
-       id="g52">
+       name="head">
       <rect
-         x="10"
-         y="0"
-         width="10"
-         height="15"
-         rx="3"
+         id="rect865"
          ry="3"
-         id="rect34"
-         style="fill:#ff8844;stroke:#ff8800;stroke-width:2" />
-      <rect
-         x="30"
-         y="0"
-         width="10"
-         height="15"
          rx="3"
+         stroke-width="2"
+         stroke="#f80"
+         fill="#f84"
+         height="15"
+         width="10"
+         y="0"
+         x="10" />
+      <rect
+         id="rect867"
          ry="3"
-         id="rect36"
-         style="fill:#ff8844;stroke:#ff8800;stroke-width:2" />
+         rx="3"
+         stroke-width="2"
+         stroke="#f80"
+         fill="#f84"
+         height="15"
+         width="10"
+         y="0"
+         x="30" />
       <rect
-         x="12"
-         y="3"
-         width="6"
+         id="rect869"
+         ry="2"
+         rx="2"
+         stroke="none"
+         fill="#fff"
          height="6"
-         rx="2"
-         ry="2"
-         id="rect38"
-         style="fill:#ffffff;stroke:none" />
-      <rect
-         x="32"
-         y="3"
          width="6"
+         y="3"
+         x="12" />
+      <rect
+         id="rect871"
+         ry="2"
+         rx="2"
+         stroke="none"
+         fill="#fff"
          height="6"
-         rx="2"
-         ry="2"
-         id="rect40"
-         style="fill:#ffffff;stroke:none" />
+         width="6"
+         y="3"
+         x="32" />
       <rect
-         x="13"
-         y="4"
-         width="4"
+         id="rect873"
+         ry="2"
+         rx="2"
+         stroke="none"
+         fill="#44f"
          height="4"
-         rx="2"
-         ry="2"
-         id="rect42"
-         style="fill:#4444ff;stroke:none" />
-      <rect
-         x="33"
-         y="4"
          width="4"
-         height="4"
-         rx="2"
-         ry="2"
-         id="rect44"
-         style="fill:#4444ff;stroke:none" />
+         y="4"
+         x="13" />
       <rect
-         x="0"
-         y="10"
+         id="rect875"
+         ry="2"
+         rx="2"
+         stroke="none"
+         fill="#44f"
+         height="4"
+         width="4"
+         y="4"
+         x="33" />
+      <rect
+         id="rect877"
+         ry="3"
+         rx="3"
+         stroke-width="2"
+         stroke="#22f"
+         fill="#44f"
+         height="15"
          width="50"
-         height="15"
-         rx="3"
-         ry="3"
-         id="rect46"
-         style="fill:#4444ff;stroke:#2222ff;stroke-width:2" />
+         y="10"
+         x="0" />
       <rect
-         x="3"
-         y="13"
-         width="44"
-         height="9"
-         rx="3"
+         id="rect879"
          ry="3"
-         id="rect48"
-         style="fill:#ffffff;stroke:none" />
+         rx="3"
+         stroke="none"
+         fill="#fff"
+         height="9"
+         width="44"
+         y="13"
+         x="3" />
       <path
-         d="m 3,22 5.5,-9 5.5,9 5.5,-9 5.5,9 5.5,-9 5.5,9 5.5,-9 5.5,9"
-         id="path50"
          inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000;stroke-width:2" />
+         id="path881"
+         fill="none"
+         stroke="black"
+         stroke-width="2"
+         d="m 3,22 5.5,-9 5.5,9 5.5,-9 5.5,9 5.5,-9 5.5,9 5.5,-9 5.5,9" />
     </g>
-  </g>
-  <g
-     aria-label="Boraini"
-     transform="matrix(7.0157248,0,0,7.0157248,-1065.7203,-132.70728)"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:AGRevueCyr-Roman;-inkscape-font-specification:AGRevueCyr-Roman;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.14253694"
-     id="flowRoot869">
-    <path
-       d="m 174.66081,29.465614 v -9.479166 h 3.32031 q 1.72526,0 2.61719,0.664062 0.89192,0.657552 0.89192,1.933594 0,0.696614 -0.35807,1.230469 -0.35807,0.527343 -0.99609,0.774739 0.72916,0.182292 1.14583,0.735677 0.42318,0.553386 0.42318,1.354167 0,1.367187 -0.8724,2.070312 -0.87239,0.703125 -2.48698,0.716146 z m 1.95312,-4.127604 v 2.558594 h 1.67318 q 0.6901,0 1.07422,-0.325521 0.39062,-0.332031 0.39062,-0.911458 0,-1.302084 -1.34765,-1.321615 z m 0,-1.380208 h 1.44531 q 1.47787,-0.02604 1.47787,-1.178386 0,-0.644531 -0.3776,-0.924479 -0.3711,-0.286458 -1.17839,-0.286458 h -1.36719 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;stroke-width:0.03593853"
-       id="path889"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 182.75977,25.878375 q 0,-1.048177 0.40364,-1.86849 0.40365,-0.820312 1.15886,-1.269531 0.76171,-0.449219 1.76432,-0.449219 1.42578,0 2.32422,0.872396 0.90495,0.872396 1.00911,2.369792 l 0.013,0.48177 q 0,1.621094 -0.90495,2.604167 -0.90494,0.976562 -2.42838,0.976562 -1.52344,0 -2.4349,-0.976562 -0.90494,-0.976562 -0.90494,-2.65625 z m 1.88151,0.136718 q 0,1.002605 0.3776,1.536459 0.3776,0.527343 1.08073,0.527343 0.68359,0 1.06771,-0.520833 0.38411,-0.527344 0.38411,-1.679687 0,-0.983073 -0.38411,-1.523438 -0.38412,-0.540364 -1.08073,-0.540364 -0.69011,0 -1.06771,0.540364 -0.3776,0.533854 -0.3776,1.660156 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;stroke-width:0.03593853"
-       id="path891"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 194.56315,24.185666 q -0.38411,-0.05208 -0.67708,-0.05208 -1.06771,0 -1.39974,0.722656 v 4.609375 h -1.88151 v -7.044271 h 1.77734 l 0.0521,0.839844 q 0.56641,-0.970052 1.56901,-0.970052 0.3125,0 0.58594,0.08464 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;stroke-width:0.03593853"
-       id="path893"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 199.37435,29.465614 q -0.13021,-0.253906 -0.1888,-0.63151 -0.6836,0.761718 -1.77735,0.761718 -1.03515,0 -1.71875,-0.598958 -0.67708,-0.598958 -0.67708,-1.510416 0,-1.119792 0.82682,-1.71875 0.83333,-0.598959 2.40235,-0.605469 h 0.86588 v -0.403646 q 0,-0.488281 -0.25391,-0.78125 -0.24739,-0.292969 -0.78776,-0.292969 -0.47526,0 -0.74869,0.227865 -0.26693,0.227864 -0.26693,0.625 h -1.88151 q 0,-0.611979 0.3776,-1.132813 0.37761,-0.520833 1.06771,-0.813802 0.69011,-0.299479 1.54948,-0.299479 1.30208,0 2.0638,0.657552 0.76823,0.651042 0.76823,1.835938 v 3.053385 q 0.007,1.002604 0.27995,1.516927 v 0.110677 z m -1.55599,-1.308594 q 0.41666,0 0.76823,-0.182291 0.35156,-0.188802 0.52083,-0.501302 v -1.210938 h -0.70312 q -1.41276,0 -1.50391,0.976563 l -0.007,0.110677 q 0,0.351562 0.24739,0.579427 0.2474,0.227864 0.67709,0.227864 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;stroke-width:0.03593853"
-       id="path895"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 204.43945,29.465614 h -1.88802 v -7.044271 h 1.88802 z m -1.9987,-8.867187 q 0,-0.423177 0.27995,-0.696615 0.28646,-0.273437 0.77474,-0.273437 0.48177,0 0.76823,0.273437 0.28646,0.273438 0.28646,0.696615 0,0.429687 -0.29297,0.703125 -0.28646,0.273437 -0.76172,0.273437 -0.47526,0 -0.76823,-0.273437 -0.28646,-0.273438 -0.28646,-0.703125 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;stroke-width:0.03593853"
-       id="path897"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 207.72721,22.421343 0.0586,0.813803 q 0.7552,-0.944011 2.02474,-0.944011 1.11979,0 1.66666,0.657552 0.54688,0.657552 0.5599,1.966146 v 4.550781 h -1.88151 v -4.505208 q 0,-0.598958 -0.26042,-0.865885 -0.26042,-0.273438 -0.86588,-0.273438 -0.79428,0 -1.19141,0.677083 v 4.967448 h -1.88151 v -7.044271 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;stroke-width:0.03593853"
-       id="path899"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 215.45508,29.465614 h -1.88803 v -7.044271 h 1.88803 z m -1.9987,-8.867187 q 0,-0.423177 0.27995,-0.696615 0.28645,-0.273437 0.77474,-0.273437 0.48177,0 0.76822,0.273437 0.28646,0.273438 0.28646,0.696615 0,0.429687 -0.29297,0.703125 -0.28645,0.273437 -0.76171,0.273437 -0.47527,0 -0.76823,-0.273437 -0.28646,-0.273438 -0.28646,-0.703125 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;stroke-width:0.03593853"
-       id="path901"
-       inkscape:connector-curvature="0" />
   </g>
 </svg>

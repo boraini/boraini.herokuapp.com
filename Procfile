@@ -1,1 +1,1 @@
-web: node bin/site $PORT
+web: cd go; node go/bin/site $PORT

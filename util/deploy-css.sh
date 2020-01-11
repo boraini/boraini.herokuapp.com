@@ -8,15 +8,15 @@ then
     name=${file##*/}
     base=${name%.sass}
     echo "===================================\nCompiling $name \n==================================="
-    sass css-raw/$name public/css/$base.css
+     sass css-raw/$name public/css/$base.css
   done
-  for file in css-raw/css/*.scss
-  do
-    name=${file##*/}
-    base=${name%.scss}
-    echo "===================================\nCompiling $name \n==================================="
-    sass css-raw/$name public/css/$base.css
-  done
+#  for file in css-raw/css/*.scss
+#  do
+#    name=${file##*/}
+#    base=${name%.scss}
+#    echo "===================================\nCompiling $name \n==================================="
+#    sass css-raw/$name public/css/$base.css
+#  done
   for file in css-raw/*.css
   do
     name=${file##*/}
