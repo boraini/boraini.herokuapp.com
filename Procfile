@@ -1,1 +1,1 @@
-web: cd go; bin/site $PORT
+web: cd go; go run boraini/site
