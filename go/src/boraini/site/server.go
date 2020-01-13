@@ -24,5 +24,5 @@ func main() {
 	e.Renderer = t
 
 	go PrepareSiteIndex()
-	e.Start(os.Getenv("PORT"))
+	e.Start(":" + os.Getenv("PORT"))
 }
