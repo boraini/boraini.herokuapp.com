@@ -1,1 +1,1 @@
-web: cd go; go run boraini/site
+web: bin/site
