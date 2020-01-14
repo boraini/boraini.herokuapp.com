@@ -1,1 +1,1 @@
-web: bin/site
+web: bin/boraini.herokuapp.com
